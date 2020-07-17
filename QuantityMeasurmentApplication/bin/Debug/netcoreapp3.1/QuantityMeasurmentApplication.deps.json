@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "QuantityMeasurmentApplication/1.0.0": {
+        "runtime": {
+          "QuantityMeasurmentApplication.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QuantityMeasurmentApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

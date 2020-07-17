@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\QuantityMeasurmentApplication\QuantityMeasurmentApplication\bin\Debug\netcoreapp3.1\QuantityMeasurmentApplication.exe
+C:\Users\HP\source\repos\QuantityMeasurmentApplication\QuantityMeasurmentApplication\bin\Debug\netcoreapp3.1\QuantityMeasurmentApplication.deps.json
+C:\Users\HP\source\repos\QuantityMeasurmentApplication\QuantityMeasurmentApplication\bin\Debug\netcoreapp3.1\QuantityMeasurmentApplication.runtimeconfig.json
+C:\Users\HP\source\repos\QuantityMeasurmentApplication\QuantityMeasurmentApplication\bin\Debug\netcoreapp3.1\QuantityMeasurmentApplication.runtimeconfig.dev.json
+C:\Users\HP\source\repos\QuantityMeasurmentApplication\QuantityMeasurmentApplication\bin\Debug\netcoreapp3.1\QuantityMeasurmentApplication.dll
+C:\Users\HP\source\repos\QuantityMeasurmentApplication\QuantityMeasurmentApplication\bin\Debug\netcoreapp3.1\QuantityMeasurmentApplication.pdb
+C:\Users\HP\source\repos\QuantityMeasurmentApplication\QuantityMeasurmentApplication\obj\Debug\netcoreapp3.1\QuantityMeasurmentApplication.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\QuantityMeasurmentApplication\QuantityMeasurmentApplication\obj\Debug\netcoreapp3.1\QuantityMeasurmentApplication.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\QuantityMeasurmentApplication\QuantityMeasurmentApplication\obj\Debug\netcoreapp3.1\QuantityMeasurmentApplication.AssemblyInfo.cs
+C:\Users\HP\source\repos\QuantityMeasurmentApplication\QuantityMeasurmentApplication\obj\Debug\netcoreapp3.1\QuantityMeasurmentApplication.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\QuantityMeasurmentApplication\QuantityMeasurmentApplication\obj\Debug\netcoreapp3.1\QuantityMeasurmentApplication.dll
+C:\Users\HP\source\repos\QuantityMeasurmentApplication\QuantityMeasurmentApplication\obj\Debug\netcoreapp3.1\QuantityMeasurmentApplication.pdb
+C:\Users\HP\source\repos\QuantityMeasurmentApplication\QuantityMeasurmentApplication\obj\Debug\netcoreapp3.1\QuantityMeasurmentApplication.genruntimeconfig.cache
